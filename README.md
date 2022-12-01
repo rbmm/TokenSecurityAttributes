@@ -6,8 +6,8 @@ TokenId = 12c6982, ModifiedId = 12c69bf
 Query TokenSecurityAttributes = 0
 The operation completed successfully.
 UINT64 Flags=41 TSA://ProcUnique
-	a6
-	12c6983
+  a6
+  12c6983
 
 AdjustPrivilegesToken = 0
 The operation completed successfully.
@@ -23,11 +23,11 @@ TokenId = 12c6982, ModifiedId = 12c6aeb
 Query TokenSecurityAttributes = 0
 The operation completed successfully.
 STRING Flags=1 Attribute #1
-	[Demo String #1]
-	[Demo String #2]
+  [Demo String #1]
+  [Demo String #2]
 SID Flags=1 Attribute #2
-	S-1-5-18
-	S-1-5-32-544
+  S-1-5-18
+  S-1-5-32-544
 
 
 initially token have TSA://ProcUnique attribute with 2 UINT64
